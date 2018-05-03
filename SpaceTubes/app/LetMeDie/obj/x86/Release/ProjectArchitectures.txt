@@ -1,0 +1,2 @@
+C:\Users\compte\Documents\LetMeDie\app\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\compte\Documents\LetMeDie\app\LetMeDie\LetMeDie.csproj;x86

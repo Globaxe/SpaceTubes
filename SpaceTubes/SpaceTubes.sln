@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTubes", "SpaceTubes.csproj", "{4E8B39C6-DED0-6959-0C2F-7F1D41424531}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTubes.Editor", "SpaceTubes.Editor.csproj", "{2666ABFF-950C-D472-B8A5-AD5CE1E83DBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8B39C6-DED0-6959-0C2F-7F1D41424531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8B39C6-DED0-6959-0C2F-7F1D41424531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8B39C6-DED0-6959-0C2F-7F1D41424531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8B39C6-DED0-6959-0C2F-7F1D41424531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2666ABFF-950C-D472-B8A5-AD5CE1E83DBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2666ABFF-950C-D472-B8A5-AD5CE1E83DBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2666ABFF-950C-D472-B8A5-AD5CE1E83DBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2666ABFF-950C-D472-B8A5-AD5CE1E83DBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

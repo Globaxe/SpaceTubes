@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>LetMeDie</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\compte\Documents\LetMeDie\app\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\compte\Documents\LetMeDie\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
